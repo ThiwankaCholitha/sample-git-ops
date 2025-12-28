@@ -8,7 +8,7 @@ spec:
   source:
     chart: httpbin
     repoURL: https://matheusfm.dev/charts
-    tagetRevision: 0.1.1
+    targetRevision: 0.1.1
   helm:
     releaseName: httpbin
   destination:
